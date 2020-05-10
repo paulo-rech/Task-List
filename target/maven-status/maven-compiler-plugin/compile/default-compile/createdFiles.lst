@@ -1,0 +1,6 @@
+model\Task.class
+service\TaskFacadeREST.class
+model\Task_.class
+com\mycompany\tasklist\JAXRSConfiguration.class
+service\AbstractFacade.class
+com\mycompany\tasklist\resources\JavaEE8Resource.class
